@@ -10066,5 +10066,137 @@
   {
     "k": "Isso é útil para permitir o usuário copiar e colar o conteúdo em um local que não tem opção de ler o QR Code, como acesso pelo navegador de um desktop, por exemplo.",
     "v": "This is useful to allow the user to copy and paste the content in a location that does not have the option to read the QR Code, such as access through a desktop browser, for example."
+  },
+  {
+    "k": "Objeto da classe correspondente ao tipo do item",
+    "v": "Object of the class corresponding to the item type"
+  },
+  {
+    "k": "Se o parâmetro `is_folder` for declarado, serão listados apenas os itens que são pasta (`is_folder=true`) ou apenas os itens que são arquivo (`is_folder=false`)",
+    "v": "If the `is_folder` parameter is declared, only items that are folders (`is_folder=true`) or only items that are files (`is_folder=false`) will be listed"
+  },
+  {
+    "k": "Se `recursive=true`, então serão listados também os itens das subpastas",
+    "v": "If `recursive=true`, then items from subfolders will also be listed"
+  },
+  {
+    "k": "Array de objetos da classe correspondente ao tipo do item",
+    "v": "Array of objects of the corresponding class type of the item"
+  },
+  {
+    "k": "API para listar os arquivos e dados do programa Holyrics disponíveis no computador  (somente leitura)",
+    "v": "API to list the files and data of the Holyrics program available on the computer (read-only)"
+  },
+  {
+    "k": "Disponível a partir da versão `2.30.0` prevista para `15/09/2026`",
+    "v": "Available from version `2.30.0` expected on `09/15/2026`"
+  },
+  {
+    "k": "Tipos de itens disponíveis",
+    "v": "Types of available items"
+  },
+  {
+    "k": "Classe",
+    "v": "Class"
+  },
+  {
+    "k": "Essa API permite que apps de terceiros (como apps de gestão de voluntários, por exemplo) façam requisições para pesquisar um item diretamente na \"base de dados\" do usuário Holyrics.",
+    "v": "This API allows third-party apps (such as volunteer management apps, for example) to make requests to search for an item directly in the user's Holyrics \"database.\""
+  },
+  {
+    "k": "Permitindo, por exemplo, adicionar arquivos de áudio, vídeo, imagens, pastas, etc. que já estão no computador diretamente na ordem de culto do app de gestão.",
+    "v": "Allowing, for example, to add audio files, video files, images, folders, etc. that are already on the computer directly into the worship order of the management app."
+  },
+  {
+    "k": "Essa API não disponibiliza acesso direto aos arquivos (áudio, vídeo e imagens), apenas a listagem e informações do arquivo, e também uma imagem preview para itens compatíveis, como imagens, vídeos, temas, etc.",
+    "v": "This API does not provide direct access to files (audio, video, and images), only the listing and information of the file, as well as a preview image for compatible items, such as images, videos, themes, etc."
+  },
+  {
+    "k": "A disponibilização de acesso ao arquivo pode ser implementada futuramente, mas por enquanto não há previsão.",
+    "v": "The provision of access to the file may be implemented in the future, but for now, there is no forecast."
+  },
+  {
+    "k": "Endpoint padrão",
+    "v": "Standard endpoint"
+  },
+  {
+    "k": "Retorna o respectivo item pelo ID.",
+    "v": "Returns the respective item by ID."
+  },
+  {
+    "k": "Tipos disponíveis:",
+    "v": "Available types:"
+  },
+  {
+    "k": "Lista os itens disponíveis para o respectivo tipo.",
+    "v": "Lists the available items for the respective type."
+  },
+  {
+    "k": "Disponível para os tipos:",
+    "v": "Available for the types:"
+  },
+  {
+    "k": "Se o parâmetro `folder` for declarado, serão listados apenas os itens a partir dessa pasta.",
+    "v": "If the `folder` parameter is declared, only the items from that folder will be listed."
+  },
+  {
+    "k": "Caso não seja declarado, a pasta raiz será utilizada como base.",
+    "v": "If not declared, the root folder will be used as the base."
+  },
+  {
+    "k": "Para uma subpasta, basta informar o respectivo caminho com a barra separadora, por exemplo:",
+    "v": "For a subfolder, simply provide the respective path with the separator slash, for example:"
+  },
+  {
+    "k": "Pesquisa os itens disponíveis para o respectivo tipo.",
+    "v": "Search for the available items for the respective type."
+  },
+  {
+    "k": "Limite: 30 resultados",
+    "v": "Limit: 30 results"
+  },
+  {
+    "k": "O parâmetro `slides` não está disponível nos endpoints `/list` e `/search`",
+    "v": "The `slides` parameter is not available in the `/list` and `/search` endpoints"
+  },
+  {
+    "k": "Nome completo do item, incluindo pasta, caso esteja dentro de pastas e subpastas",
+    "v": "Full name of the item, including folder, if it is within folders and subfolders"
+  },
+  {
+    "k": "Quantidade de itens dentro da respectiva pasta",
+    "v": "Number of items within the respective folder"
+  },
+  {
+    "k": "disponível somente para pastas",
+    "v": "available only for folders"
+  },
+  {
+    "k": "Tamanho do arquivo (em bytes)",
+    "v": "File size (in bytes)"
+  },
+  {
+    "k": "disponível somente para arquivos",
+    "v": "available only for files"
+  },
+  {
+    "k": "Duração da mídia em milissegundos",
+    "v": "Media duration in milliseconds"
+  },
+  {
+    "k": "URL da imagem preview do respectivo item.",
+    "v": "Preview image URL of the respective item."
+  },
+  {
+    "k": "Resolução Máxima:",
+    "v": "Maximum Resolution:"
+  },
+  {
+    "k": "URL da imagem miniatura do respectivo item.",
+    "v": "Thumbnail URL of the respective item."
+  },
+  {
+    "k": "Autenticação",
+    "v": "Authentication"
   }
 ]
