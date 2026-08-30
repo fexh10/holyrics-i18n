@@ -11,236 +11,236 @@
     {
       "id": "01",
       "usfx_code": "GEN",
-      "name": "ԾՆՆԴՈՑ",
-      "abbreviation": "Ծնն"
+      "name": "Ծննդոց",
+      "abbreviation": "Ծնդ"
     },
     {
       "id": "02",
       "usfx_code": "EXO",
-      "name": "ԵԼՔ",
-      "abbreviation": "Ելք"
+      "name": "Ելից",
+      "abbreviation": "Ելց"
     },
     {
       "id": "03",
       "usfx_code": "LEV",
-      "name": "ՂԵՎՏԱԿԱՆ",
+      "name": "Ղևտացոց",
       "abbreviation": "Ղևտ"
     },
     {
       "id": "04",
       "usfx_code": "NUM",
-      "name": "ԹՎԵՐ",
-      "abbreviation": "Թվ"
+      "name": "Թվոց",
+      "abbreviation": "Թվց"
     },
     {
       "id": "05",
       "usfx_code": "DEU",
-      "name": "Բ ՕՐԵՆՔ",
-      "abbreviation": "Բ Օր"
+      "name": "2 Օրինաց",
+      "abbreviation": "2 Օր"
     },
     {
       "id": "06",
       "usfx_code": "JOS",
-      "name": "ՀԵՍՈՒ",
+      "name": "Հեսու",
       "abbreviation": "Հես"
     },
     {
       "id": "07",
       "usfx_code": "JDG",
-      "name": "ԴԱՏԱՎՈՐՆԵՐ",
+      "name": "Դատավորաց",
       "abbreviation": "Դատ"
     },
     {
       "id": "08",
       "usfx_code": "RUT",
-      "name": "ՀՌՈՒԹ",
+      "name": "Հռութ",
       "abbreviation": "Հռթ"
     },
     {
       "id": "09",
       "usfx_code": "1SA",
-      "name": "Ա ԹԱԳԱՎՈՐՆԵՐԻ",
-      "abbreviation": "Ա Թագ"
+      "name": "1 Թագավորաց",
+      "abbreviation": "1 Թագ"
     },
     {
       "id": "10",
       "usfx_code": "2SA",
-      "name": "Բ ԹԱԳԱՎՈՐՆԵՐԻ",
-      "abbreviation": "Բ Թագ"
+      "name": "2 Թագավորաց",
+      "abbreviation": "2 Թագ"
     },
     {
       "id": "11",
       "usfx_code": "1KI",
-      "name": "Գ ԹԱԳԱՎՈՐՆԵՐԻ",
-      "abbreviation": "Գ Թագ"
+      "name": "3 Թագավորաց",
+      "abbreviation": "3 Թագ"
     },
     {
       "id": "12",
       "usfx_code": "2KI",
-      "name": "Դ ԹԱԳԱՎՈՐՆԵՐԻ",
-      "abbreviation": "Դ Թագ"
+      "name": "4 Թագավորաց",
+      "abbreviation": "4 Թագ"
     },
     {
       "id": "13",
       "usfx_code": "1CH",
-      "name": "Ա ՄՆԱՑՈՐԴԱՑ",
-      "abbreviation": "Ա Մն"
+      "name": "1 Մնացորդաց",
+      "abbreviation": "1 Մն"
     },
     {
       "id": "14",
       "usfx_code": "2CH",
-      "name": "Բ ՄՆԱՑՈՐԴԱՑ",
-      "abbreviation": "Բ Մն"
+      "name": "2 Մնացորդաց",
+      "abbreviation": "2 Մն"
     },
     {
       "id": "15",
       "usfx_code": "EZR",
-      "name": "ԵԶՐԱՍ",
+      "name": "Եզրաս",
       "abbreviation": "Եզր"
     },
     {
       "id": "16",
       "usfx_code": "NEH",
-      "name": "ՆԵԵՄԻԱ",
+      "name": "Նեեմիա",
       "abbreviation": "Նեմ"
     },
     {
       "id": "17",
       "usfx_code": "EST",
-      "name": "ԵՍԹԵՐ",
+      "name": "Եսթեր",
       "abbreviation": "Եսթ"
     },
     {
       "id": "18",
       "usfx_code": "JOB",
-      "name": "ՀՈԲ",
-      "abbreviation": "Հոբ"
+      "name": "Հոբ",
+      "abbreviation": "Հբ"
     },
     {
       "id": "19",
       "usfx_code": "PSA",
-      "name": "ՍԱՂՄՈՍՆԵՐ",
+      "name": "Սաղմոս",
       "abbreviation": "Սաղ"
     },
     {
       "id": "20",
       "usfx_code": "PRO",
-      "name": "ԱՌԱԿՆԵՐ",
+      "name": "Առակաց",
       "abbreviation": "Առկ"
     },
     {
       "id": "21",
       "usfx_code": "ECC",
-      "name": "ԺՈՂՈՎՈՂ",
-      "abbreviation": "Ժող"
+      "name": "Ժողովող",
+      "abbreviation": "Ժղվ"
     },
     {
       "id": "22",
       "usfx_code": "SNG",
-      "name": "ԵՐԳ ԵՐԳՈՑ",
+      "name": "Երգ Երգոց",
       "abbreviation": "Երգ"
     },
     {
       "id": "23",
       "usfx_code": "ISA",
-      "name": "ԵՍԱՅԻ",
+      "name": "Եսայիա",
       "abbreviation": "Ես"
     },
     {
       "id": "24",
       "usfx_code": "JER",
-      "name": "ԵՐԵՄԻԱ",
+      "name": "Երեմիա",
       "abbreviation": "Երմ"
     },
     {
       "id": "25",
       "usfx_code": "LAM",
-      "name": "ԵՐԵՄԻԱՅԻ ՈՂԲԵՐԸ",
+      "name": "Երեմիայի ողբերը",
       "abbreviation": "Ողբ"
     },
     {
       "id": "26",
       "usfx_code": "EZK",
-      "name": "ԵԶԵԿԻԵԼ",
+      "name": "Եզեկիել",
       "abbreviation": "Եզկ"
     },
     {
       "id": "27",
       "usfx_code": "DAN",
-      "name": "ԴԱՆԻԵԼ",
+      "name": "Դանիել",
       "abbreviation": "Դան"
     },
     {
       "id": "28",
       "usfx_code": "HOS",
-      "name": "ՈՎՍԵԵ",
+      "name": "Ովսեե",
       "abbreviation": "Ովս"
     },
     {
       "id": "29",
       "usfx_code": "JOL",
-      "name": "ՀՈՎԵԼ",
+      "name": "Հովել",
       "abbreviation": "Հվլ"
     },
     {
       "id": "30",
       "usfx_code": "AMO",
-      "name": "ԱՄՈՎՍ",
+      "name": "Ամովս",
       "abbreviation": "Ամս"
     },
     {
       "id": "31",
       "usfx_code": "OBA",
-      "name": "ԱԲԴԻԱ",
+      "name": "Աբդիա",
       "abbreviation": "Աբդ"
     },
     {
       "id": "32",
       "usfx_code": "JON",
-      "name": "ՀՈՎՆԱՆ",
+      "name": "Հովնան",
       "abbreviation": "Հվն"
     },
     {
       "id": "33",
       "usfx_code": "MIC",
-      "name": "ՄԻՔԻԱ",
+      "name": "Միքիա",
       "abbreviation": "Միք"
     },
     {
       "id": "34",
       "usfx_code": "NAM",
-      "name": "ՆԱՈՒՄ",
-      "abbreviation": "Նմ"
+      "name": "Նաում",
+      "abbreviation": "Նում"
     },
     {
       "id": "35",
       "usfx_code": "HAB",
-      "name": "ԱՄԲԱԿՈՒՄ",
+      "name": "Ամբակում",
       "abbreviation": "Ամբ"
     },
     {
       "id": "36",
       "usfx_code": "ZEP",
-      "name": "ՍՈՓՈՆԻԱ",
+      "name": "Սոփոնիա",
       "abbreviation": "Սոփ"
     },
     {
       "id": "37",
       "usfx_code": "HAG",
-      "name": "ԱՆԳԵ",
+      "name": "Անգե",
       "abbreviation": "Անգ"
     },
     {
       "id": "38",
       "usfx_code": "ZEC",
-      "name": "ԶԱՔԱՐԻԱ",
+      "name": "Զաքարիա",
       "abbreviation": "Զաք"
     },
     {
       "id": "39",
       "usfx_code": "MAL",
-      "name": "ՄԱՂԱՔԻԱ",
-      "abbreviation": "Մղք"
+      "name": "Մաղաքիա",
+      "abbreviation": "Մաղ"
     },
     {
       "id": "40",
@@ -252,7 +252,7 @@
       "id": "41",
       "usfx_code": "MRK",
       "name": "Մարկոս",
-      "abbreviation": "Մրկ"
+      "abbreviation": "Մար"
     },
     {
       "id": "42",
@@ -263,8 +263,8 @@
     {
       "id": "43",
       "usfx_code": "JHN",
-      "name": "ՀՈՎՀԱՆՆԵՍ",
-      "abbreviation": "Հովհ"
+      "name": "Հովհաննես",
+      "abbreviation": "Հով"
     },
     {
       "id": "44",
@@ -275,122 +275,122 @@
     {
       "id": "45",
       "usfx_code": "ROM",
-      "name": "Հռոմեացիներին",
+      "name": "Հռովմայեցիս",
       "abbreviation": "Հռմ"
     },
     {
       "id": "46",
       "usfx_code": "1CO",
-      "name": "Ա Կորնթացիներին",
-      "abbreviation": "Ա Կրնթ"
+      "name": "1 Կորնթացիս",
+      "abbreviation": "1 Կր"
     },
     {
       "id": "47",
       "usfx_code": "2CO",
-      "name": "Բ Կորնթացիներին",
-      "abbreviation": "Բ Կրնթ"
+      "name": "2 Կորնթացիս",
+      "abbreviation": "2 Կր"
     },
     {
       "id": "48",
       "usfx_code": "GAL",
-      "name": "Գաղատացիներին",
-      "abbreviation": "Գղտ"
+      "name": "Գաղատացիս",
+      "abbreviation": "Գաղ"
     },
     {
       "id": "49",
       "usfx_code": "EPH",
-      "name": "Եփեսացիներին",
+      "name": "Եփեսացիս",
       "abbreviation": "Եփս"
     },
     {
       "id": "50",
       "usfx_code": "PHP",
-      "name": "Փիլիպպեցիներին",
-      "abbreviation": "Փլպ"
+      "name": "Փիլիպպեցիս",
+      "abbreviation": "Փիլ"
     },
     {
       "id": "51",
       "usfx_code": "COL",
-      "name": "Կողոսացիներին",
+      "name": "Կողոսացիս",
       "abbreviation": "Կղս"
     },
     {
       "id": "52",
       "usfx_code": "1TH",
-      "name": "Ա Թեսաղոնիկեցիներին",
-      "abbreviation": "Ա Թսղ"
+      "name": "1 Թեսաղոնիկեցիս",
+      "abbreviation": "1 Թե"
     },
     {
       "id": "53",
       "usfx_code": "2TH",
-      "name": "Բ Թեսաղոնիկեցիներին",
-      "abbreviation": "Բ Թսղ"
+      "name": "2 Թեսաղոնիկեցիս",
+      "abbreviation": "2 Թե"
     },
     {
       "id": "54",
       "usfx_code": "1TI",
-      "name": "Ա Տիմոթեոսին",
-      "abbreviation": "Ա Տմթ"
+      "name": "1 Տիմոթեոս",
+      "abbreviation": "1 Տմ"
     },
     {
       "id": "55",
       "usfx_code": "2TI",
-      "name": "Բ Տիմոթեոսին",
-      "abbreviation": "Բ Տմթ"
+      "name": "2 Տիմոթեոս",
+      "abbreviation": "2 Տմ"
     },
     {
       "id": "56",
       "usfx_code": "TIT",
-      "name": "Տիտոսին",
+      "name": "Տիտոս",
       "abbreviation": "Տիտ"
     },
     {
       "id": "57",
       "usfx_code": "PHM",
-      "name": "Փիլիմոնին",
+      "name": "Փիլիմոն",
       "abbreviation": "Փլմ"
     },
     {
       "id": "58",
       "usfx_code": "HEB",
-      "name": "Եբրայեցիներին",
+      "name": "Եբրայեցիս",
       "abbreviation": "Եբր"
     },
     {
       "id": "59",
       "usfx_code": "JAS",
       "name": "Հակոբոս",
-      "abbreviation": "Հկբ"
+      "abbreviation": "Հակ"
     },
     {
       "id": "60",
       "usfx_code": "1PE",
-      "name": "Ա Պետրոս",
-      "abbreviation": "Ա Պտ"
+      "name": "1 Պետրոս",
+      "abbreviation": "1 Պտ"
     },
     {
       "id": "61",
       "usfx_code": "2PE",
-      "name": "Բ Պետրոս",
-      "abbreviation": "Բ Պտ"
+      "name": "2 Պետրոս",
+      "abbreviation": "2 Պտ"
     },
     {
       "id": "62",
       "usfx_code": "1JN",
-      "name": "Ա Հովհաննես",
-      "abbreviation": "Ա Հովհ"
+      "name": "1 Հովհաննես",
+      "abbreviation": "1 Հվ"
     },
     {
       "id": "63",
       "usfx_code": "2JN",
-      "name": "Բ Հովհաննես",
-      "abbreviation": "Բ Հովհ"
+      "name": "2 Հովհաննես",
+      "abbreviation": "2 Հվ"
     },
     {
       "id": "64",
       "usfx_code": "3JN",
-      "name": "Գ Հովհաննես",
-      "abbreviation": "Գ Հովհ"
+      "name": "3 Հովհաննես",
+      "abbreviation": "3 Հվ"
     },
     {
       "id": "65",
@@ -402,7 +402,7 @@
       "id": "66",
       "usfx_code": "REV",
       "name": "Հայտնություն",
-      "abbreviation": "Հտն"
+      "abbreviation": "Հայտ"
     }
   ]
 }
