@@ -12,7 +12,7 @@
       "id": "01",
       "usfx_code": "GEN",
       "name": "Genesi",
-      "abbreviation": "Ge"
+      "abbreviation": "Gn"
     },
     {
       "id": "02",
@@ -24,19 +24,19 @@
       "id": "03",
       "usfx_code": "LEV",
       "name": "Levitico",
-      "abbreviation": "Le"
+      "abbreviation": "Lv"
     },
     {
       "id": "04",
       "usfx_code": "NUM",
       "name": "Numeri",
-      "abbreviation": "Nu"
+      "abbreviation": "Nm"
     },
     {
       "id": "05",
       "usfx_code": "DEU",
       "name": "Deuteronomio",
-      "abbreviation": "De"
+      "abbreviation": "Dt"
     },
     {
       "id": "06",
@@ -48,37 +48,37 @@
       "id": "07",
       "usfx_code": "JDG",
       "name": "Giudici",
-      "abbreviation": "Gc"
+      "abbreviation": "Gd"
     },
     {
       "id": "08",
       "usfx_code": "RUT",
       "name": "Rut",
-      "abbreviation": "Ru"
+      "abbreviation": "Rt"
     },
     {
       "id": "09",
       "usfx_code": "1SA",
       "name": "1 Samuele",
-      "abbreviation": "1S"
+      "abbreviation": "1Sm"
     },
     {
       "id": "10",
       "usfx_code": "2SA",
       "name": "2 Samuele",
-      "abbreviation": "2S"
+      "abbreviation": "2Sm"
     },
     {
       "id": "11",
       "usfx_code": "1KI",
       "name": "1 Re",
-      "abbreviation": "1R"
+      "abbreviation": "1Re"
     },
     {
       "id": "12",
       "usfx_code": "2KI",
       "name": "2 Re",
-      "abbreviation": "2R"
+      "abbreviation": "2Re"
     },
     {
       "id": "13",
@@ -126,7 +126,7 @@
       "id": "20",
       "usfx_code": "PRO",
       "name": "Proverbi",
-      "abbreviation": "Pr"
+      "abbreviation": "Pv"
     },
     {
       "id": "21",
@@ -138,7 +138,7 @@
       "id": "22",
       "usfx_code": "SNG",
       "name": "Cantico dei Cantici",
-      "abbreviation": "Ca"
+      "abbreviation": "Ct"
     },
     {
       "id": "23",
@@ -156,7 +156,7 @@
       "id": "25",
       "usfx_code": "LAM",
       "name": "Lamentazioni",
-      "abbreviation": "La"
+      "abbreviation": "Lm"
     },
     {
       "id": "26",
@@ -168,7 +168,7 @@
       "id": "27",
       "usfx_code": "DAN",
       "name": "Daniele",
-      "abbreviation": "Da"
+      "abbreviation": "Dn"
     },
     {
       "id": "28",
@@ -180,7 +180,7 @@
       "id": "29",
       "usfx_code": "JOL",
       "name": "Gioele",
-      "abbreviation": "Gl"
+      "abbreviation": "Ge"
     },
     {
       "id": "30",
@@ -192,19 +192,19 @@
       "id": "31",
       "usfx_code": "OBA",
       "name": "Abdia",
-      "abbreviation": "Ad"
+      "abbreviation": "Ab"
     },
     {
       "id": "32",
       "usfx_code": "JON",
       "name": "Giona",
-      "abbreviation": "Gn"
+      "abbreviation": "Ga"
     },
     {
       "id": "33",
       "usfx_code": "MIC",
       "name": "Michea",
-      "abbreviation": "Mi"
+      "abbreviation": "Mc"
     },
     {
       "id": "34",
@@ -222,7 +222,7 @@
       "id": "36",
       "usfx_code": "ZEP",
       "name": "Sofonia",
-      "abbreviation": "So"
+      "abbreviation": "Sf"
     },
     {
       "id": "37",
@@ -234,7 +234,7 @@
       "id": "38",
       "usfx_code": "ZEC",
       "name": "Zaccaria",
-      "abbreviation": "Za"
+      "abbreviation": "Zc"
     },
     {
       "id": "39",
@@ -252,13 +252,13 @@
       "id": "41",
       "usfx_code": "MRK",
       "name": "Marco",
-      "abbreviation": "Mr"
+      "abbreviation": "Mc"
     },
     {
       "id": "42",
       "usfx_code": "LUK",
       "name": "Luca",
-      "abbreviation": "Lu"
+      "abbreviation": "Lc"
     },
     {
       "id": "43",
@@ -276,7 +276,7 @@
       "id": "45",
       "usfx_code": "ROM",
       "name": "Romani",
-      "abbreviation": "Ro"
+      "abbreviation": "Rm"
     },
     {
       "id": "46",
@@ -294,7 +294,7 @@
       "id": "48",
       "usfx_code": "GAL",
       "name": "Galati",
-      "abbreviation": "Ga"
+      "abbreviation": "Gl"
     },
     {
       "id": "49",
@@ -306,7 +306,7 @@
       "id": "50",
       "usfx_code": "PHP",
       "name": "Filippesi",
-      "abbreviation": "Fl"
+      "abbreviation": "Fp"
     },
     {
       "id": "51",
@@ -318,25 +318,25 @@
       "id": "52",
       "usfx_code": "1TH",
       "name": "1 Tessalonicesi",
-      "abbreviation": "1Te"
+      "abbreviation": "1Ts"
     },
     {
       "id": "53",
       "usfx_code": "2TH",
       "name": "2 Tessalonicesi",
-      "abbreviation": "2Te"
+      "abbreviation": "2Ts"
     },
     {
       "id": "54",
       "usfx_code": "1TI",
       "name": "1 Timoteo",
-      "abbreviation": "1Ti"
+      "abbreviation": "1Tm"
     },
     {
       "id": "55",
       "usfx_code": "2TI",
       "name": "2 Timoteo",
-      "abbreviation": "2Ti"
+      "abbreviation": "2Tm"
     },
     {
       "id": "56",
@@ -348,7 +348,7 @@
       "id": "57",
       "usfx_code": "PHM",
       "name": "Filemone",
-      "abbreviation": "Fi"
+      "abbreviation": "Fm"
     },
     {
       "id": "58",
@@ -360,19 +360,19 @@
       "id": "59",
       "usfx_code": "JAS",
       "name": "Giacomo",
-      "abbreviation": "Gm"
+      "abbreviation": "Gc"
     },
     {
       "id": "60",
       "usfx_code": "1PE",
       "name": "1 Pietro",
-      "abbreviation": "1P"
+      "abbreviation": "1Pt"
     },
     {
       "id": "61",
       "usfx_code": "2PE",
       "name": "2 Pietro",
-      "abbreviation": "2P"
+      "abbreviation": "2Pt"
     },
     {
       "id": "62",
@@ -396,7 +396,7 @@
       "id": "65",
       "usfx_code": "JUD",
       "name": "Giuda",
-      "abbreviation": "Gd"
+      "abbreviation": "Ga"
     },
     {
       "id": "66",
